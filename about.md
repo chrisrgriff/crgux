@@ -1,18 +1,11 @@
 ---
-title: Colophon
+title: Christopher Griffith
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: 
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Christopher Griffith is a user experience strategist and digital marketer currently working on form design and conversion rate optimization at [OneMain Financial](https://www.onemainfinancial.com). He lives in Wilmington, Delaware with his wife and daughter and enjoys the outdoors, podcasts, sports, and music.
 
-If you have a question about him or else, just send a letter to him.
-
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
-
-##### may u needs ✨
-
-- {{ site.author.email }}
-- github.com/{{ site.author.username }}
+He holds a Bachelor of Science degree in Marketing from the [University of Delaware](https://udel.edu) and a Graduate Certificate in User Experience Design from the [University of Wisconsin-Madison](https://wisc.edu).

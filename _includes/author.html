@@ -1,9 +1,11 @@
 <div class="author">
-  <img
+  <!--<img
     class="author-avatar"
     src="{{ site.author.avatar }}"
     alt="{{ site.author.username }}"
-  />
-  <h2 class="author-name">{{ site.author.name }}</h2>
+  />-->
+  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+  <lottie-player src="https://assets4.lottiefiles.com/packages/lf20_CfvWFa.json"  background="transparent"  speed="1"  style="width: 60%; margin: 0 auto;"  loop  autoplay></lottie-player>
+  <h2 class="author-name">{{ site.title }}</h2>
   <p class="author-bio">{{ site.author.bio }}</p>
 </div>
